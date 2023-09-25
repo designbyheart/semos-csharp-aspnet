@@ -1,0 +1,10 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleClass\bin\Debug\CircleClass.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleClass\bin\Debug\CircleClass.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleClass\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleClass\obj\x86\Debug\CircleClass.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleClass\obj\x86\Debug\CircleClass.pdb
+C:\CS (3 Days)\DataTypeSolution\CircleClass\bin\Debug\CircleClass.exe
+C:\CS (3 Days)\DataTypeSolution\CircleClass\bin\Debug\CircleClass.pdb
+C:\CS (3 Days)\DataTypeSolution\CircleClass\obj\x86\Debug\CircleClass.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\CircleClass\obj\x86\Debug\CircleClass.exe
+C:\CS (3 Days)\DataTypeSolution\CircleClass\obj\x86\Debug\CircleClass.pdb

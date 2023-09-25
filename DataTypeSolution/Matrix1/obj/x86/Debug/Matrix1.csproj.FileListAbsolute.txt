@@ -1,0 +1,20 @@
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Matrix1\bin\Debug\Matrix1.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Matrix1\bin\Debug\Matrix1.pdb
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix1\bin\Debug\Matrix1.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix1\bin\Debug\Matrix1.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.pdb
+C:\CS\DataTypeSolution\Matrix1\bin\Debug\Matrix1.exe
+C:\CS\DataTypeSolution\Matrix1\bin\Debug\Matrix1.pdb
+C:\CS\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.exe
+C:\CS\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.pdb
+C:\CS (3 Days)\DataTypeSolution\Matrix1\bin\Debug\Matrix1.exe
+C:\CS (3 Days)\DataTypeSolution\Matrix1\bin\Debug\Matrix1.pdb
+C:\CS (3 Days)\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.exe
+C:\CS (3 Days)\DataTypeSolution\Matrix1\obj\x86\Debug\Matrix1.pdb

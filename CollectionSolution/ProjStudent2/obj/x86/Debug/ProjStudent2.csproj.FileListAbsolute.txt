@@ -1,0 +1,4 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjStudent2\bin\Debug\ProjStudent2.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjStudent2\bin\Debug\ProjStudent2.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjStudent2\obj\x86\Debug\ProjStudent2.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjStudent2\obj\x86\Debug\ProjStudent2.pdb

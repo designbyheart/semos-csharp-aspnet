@@ -1,0 +1,7 @@
+C:\CS\CollectionSolution\ExDictionary\bin\Debug\ExDictionary.exe.config
+C:\CS\CollectionSolution\ExDictionary\bin\Debug\ExDictionary.exe
+C:\CS\CollectionSolution\ExDictionary\bin\Debug\ExDictionary.pdb
+C:\CS\CollectionSolution\ExDictionary\obj\Debug\ExDictionary.csprojAssemblyReference.cache
+C:\CS\CollectionSolution\ExDictionary\obj\Debug\ExDictionary.csproj.CoreCompileInputs.cache
+C:\CS\CollectionSolution\ExDictionary\obj\Debug\ExDictionary.exe
+C:\CS\CollectionSolution\ExDictionary\obj\Debug\ExDictionary.pdb

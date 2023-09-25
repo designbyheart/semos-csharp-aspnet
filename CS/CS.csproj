@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E917B108-4D8E-4C8D-86F4-3D84A36C016C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS</RootNamespace>
+    <AssemblyName>CS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44350</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.3\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.2.3\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.3\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.4.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.4.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.4.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.4.0.1\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.4.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.4.0.1\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.4.0.1\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.4.0.1\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.4.0.1\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\IdentityConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\MOC55339Controller.cs" />
+    <Compile Include="Controllers\MOC20483Controller.cs" />
+    <Compile Include="Controllers\ReferencesController.cs" />
+    <Compile Include="Controllers\SE001CSController.cs" />
+    <Compile Include="Controllers\SE005CSController.cs" />
+    <Compile Include="Controllers\SE012CSController.cs" />
+    <Compile Include="Controllers\SE013CSController.cs" />
+    <Compile Include="Controllers\SE030CSController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\Course.cs" />
+    <Compile Include="Models\Exam.cs" />
+    <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Module.cs" />
+    <Compile Include="Models\Repo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Collapsible.css" />
+    <Content Include="DOC\MOC55339\MyDB.sql" />
+    <Content Include="eBooks\Async in CS 5.0.jpg" />
+    <Content Include="eBooks\Beginning Object-Oriented Programming with CS.jpg" />
+    <Content Include="eBooks\Clean Code in CS.jpg" />
+    <Content Include="eBooks\CS 10.jpg" />
+    <Content Include="eBooks\Effective CS %28Covers CS 4.0%29.jpg" />
+    <Content Include="eBooks\Exam Ref 70-483 Programming in CS.jpg" />
+    <Content Include="eBooks\Getting Started with Advanced C Sharp-Upgrade Your Programming Skills.jpg" />
+    <Content Include="eBooks\High-Performance Programming in CS and .NET.jpg" />
+    <Content Include="eBooks\Learn CS Quickly A Complete Beginner’s Guide to Learning CS, Even If You’re New to Programming.jpg" />
+    <Content Include="eBooks\.NET Performance Testing and Optimization.jpg" />
+    <Content Include="eBooks\Mastering Windows Presentation Foundation.jpg" />
+    <Content Include="eBooks\Pro .NET Benchmarking.jpg" />
+    <Content Include="eBooks\Pro .NET Memory Management.jpg" />
+    <Content Include="eBooks\Pro .NET Performance.jpg" />
+    <Content Include="eBooks\Pro CS 10 with .NET 6.jpg" />
+    <Content Include="eBooks\Pro CS 7-With .NET and .NET Core.jpg" />
+    <Content Include="eBooks\Pro Microservices in .NET 6.jpg" />
+    <Content Include="eBooks\Software Architecture with CS 10 and .NET 6.jpg" />
+    <Content Include="eBooks\The CS Programmer’s Study Guide %28MCSD%29.jpg" />
+    <Content Include="eBooks\Thinking in LINQ.jpg" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+    <Content Include="images\CS.png" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="DOC\MOC20483\SE001OOT-Introduction Basic Object-Oriented Concepts.docx" />
+    <Content Include="DOC\MOC20483\Intro.pptx" />
+    <Content Include="eBooks\Beginning Object-Oriented Programming with CS.pdf" />
+    <Content Include="eBooks\Learn CS Quickly A Complete Beginner’s Guide to Learning CS, Even If You’re New to Programming.pdf" />
+    <Content Include="eBooks\Getting Started with Advanced C Sharp-Upgrade Your Programming Skills.pdf" />
+    <Content Include="eBooks\Pro CS 7-With .NET and .NET Core.pdf" />
+    <Content Include="eBooks\Exam Ref 70-483 Programming in CS.pdf" />
+    <Content Include="eBooks\The CS Programmer’s Study Guide %28MCSD%29.pdf" />
+    <Content Include="eBooks\Pro .NET Benchmarking.pdf" />
+    <Content Include="eBooks\Pro .NET Memory Management.pdf" />
+    <Content Include="DOC\SE001CS\Intro.pptx" />
+    <Content Include="DOC\SE005CS\Intro.pptx" />
+    <Content Include="DOC\SE012CS\Intro.pptx" />
+    <Content Include="DOC\SE013CS\Intro.pptx" />
+    <Content Include="DOC\SE030CS\Intro.pptx" />
+    <Content Include="eBooks\Pro .NET Performance.pdf" />
+    <Content Include="DOC\SE005CS\netmemoryposter.pdf" />
+    <Content Include="DOC\SE005CS\netmemoryposter_threads.pdf" />
+    <Content Include="eBooks\Effective CS %28Covers CS 4.0%29.pdf" />
+    <Content Include="eBooks\.NET Performance Testing and Optimization.pdf" />
+    <Content Include="eBooks\Async in CS 5.0.pdf" />
+    <Content Include="DOC\SE005CS\Material.pdf" />
+    <Content Include="eBooks\Clean Code in CS.pdf" />
+    <Content Include="DOC\SE001CS\C Sharp Fundamentals.pdf" />
+    <Content Include="CODE\SE001CS\Day1.zip" />
+    <Content Include="CODE\SE001CS\Day2.zip" />
+    <Content Include="CODE\SE001CS\CollectionSolution.zip" />
+    <Content Include="CODE\SE001CS\DataTypeSolution.zip" />
+    <Content Include="CODE\SE001CS\DelegateSolution.zip" />
+    <Content Include="CODE\SE001CS\ParameterSolution.zip" />
+    <Content Include="CODE\SE001CS\ExceptionHandlingSolution.zip" />
+    <Content Include="DOC\SE001CS\Error Handling.pptx" />
+    <Content Include="DOC\SE001CS\Day3.xlsx" />
+    <Content Include="DOC\SE030CS\Reference.pdf" />
+    <Content Include="DOC\SE030CS\Attributes.docx" />
+    <Content Include="DOC\SE030CS\Delegates.docx" />
+    <Content Include="DOC\SE030CS\Reflection.docx" />
+    <Content Include="CODE\SE030CS\Day1.zip" />
+    <Content Include="CODE\SE030CS\CollectionSolution.zip" />
+    <Content Include="CODE\SE030CS\DelegateSolution.zip" />
+    <Content Include="CODE\SE030CS\LINQSolution.zip" />
+    <Content Include="CODE\SE030CS\MultiThreading.zip" />
+    <Content Include="CODE\SE030CS\DataTypeSolution.zip" />
+    <Content Include="DOC\SE030CS\Day2.xlsx" />
+    <Content Include="CODE\SE030CS\UniverisityGenericDelegate.zip" />
+    <Content Include="CODE\SE030CS\UniversityDelegate.zip" />
+    <Content Include="CODE\SE030CS\Day4.zip" />
+    <Content Include="CODE\SE005CS\Profiler.zip" />
+    <Content Include="DOC\SE005CS\DOC.zip" />
+    <Content Include="CODE\SE005CS\FlyweightEx.zip" />
+    <Content Include="CODE\SE005CS\FlyweightExAnswer.zip" />
+    <Content Include="CODE\SE005CS\Benchmarking.zip" />
+    <Content Include="DOC\Day1.zip" />
+    <Content Include="DOC\Day2.zip" />
+    <Content Include="DOC\Day3.zip" />
+    <Content Include="DOC\SE001CS\Day1.xlsx" />
+    <Content Include="DOC\SE001CS\Day2.xlsx" />
+    <Content Include="DOC\SE001CS\Day1.zip" />
+    <Content Include="DOC\MOC55339\SE001OOT-Introduction Basic Object-Oriented Concepts.docx" />
+    <Content Include="DOC\MOC55339\Outline.docx" />
+    <Content Include="DOC\MOC55339\Intro.pptx" />
+    <Content Include="eBooks\Pro Microservices in .NET 6.pdf" />
+    <Content Include="eBooks\Software Architecture with CS 10 and .NET 6.pdf" />
+    <Content Include="eBooks\High-Performance Programming in CS and .NET.pdf" />
+    <Content Include="eBooks\Pro CS 10 with .NET 6.pdf" />
+    <Content Include="eBooks\Thinking in LINQ.pdf" />
+    <Content Include="eBooks\CS 10.epub" />
+    <Content Include="eBooks\Mastering Windows Presentation Foundation.pdf" />
+    <Content Include="CODE\MOC55339\Day1.zip" />
+    <Content Include="CODE\MOC55339\DataTypeSolution.zip" />
+    <Content Include="CODE\MOC55339\CollectionSolution.zip" />
+    <Content Include="CODE\MOC55339\DelegateSolution.zip" />
+    <Content Include="CODE\MOC55339\MultiThreading.zip" />
+    <Content Include="CODE\MOC55339\ParameterSolution.zip" />
+    <Content Include="CODE\MOC55339\ExceptionHandlingSolution.zip" />
+    <Content Include="CODE\MOC55339\Attributes.zip" />
+    <Content Include="CODE\MOC55339\FileIO.zip" />
+    <Content Include="CODE\MOC55339\LINQ Solution.zip" />
+    <Content Include="DOC\MOC55339\Error Handling.pptx" />
+    <Content Include="DOC\MOC55339\OOP.pptx" />
+    <Content Include="DOC\MOC55339\Day2.xlsx" />
+    <Content Include="DOC\MOC55339\8 Puzzle.zip" />
+    <Content Include="DOC\MOC55339\Day3.xlsx" />
+    <Content Include="DOC\MOC55339\Day4.xlsx" />
+    <Content Include="CODE\MOC55339\Database.zip" />
+    <None Include="Properties\PublishProfiles\55339 - Web Deploy.pubxml" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\Collapsible.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <Content Include="Views\Account\ConfirmEmail.cshtml" />
+    <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <Content Include="Views\Account\ExternalLoginFailure.cshtml" />
+    <Content Include="Views\Account\ForgotPassword.cshtml" />
+    <Content Include="Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Account\ResetPassword.cshtml" />
+    <Content Include="Views\Account\ResetPasswordConfirmation.cshtml" />
+    <Content Include="Views\Account\SendCode.cshtml" />
+    <Content Include="Views\Account\VerifyCode.cshtml" />
+    <Content Include="Views\Manage\AddPhoneNumber.cshtml" />
+    <Content Include="Views\Manage\ChangePassword.cshtml" />
+    <Content Include="Views\Manage\Index.cshtml" />
+    <Content Include="Views\Manage\ManageLogins.cshtml" />
+    <Content Include="Views\Manage\SetPassword.cshtml" />
+    <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
+    <Content Include="Views\Shared\Lockout.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Shared\_Book.cshtml" />
+    <Content Include="Views\Shared\_Exam.cshtml" />
+    <Content Include="Views\Shared\_Module.cshtml" />
+    <Content Include="Views\SE005CS\Index.cshtml" />
+    <Content Include="Views\MOC20483\Index.cshtml" />
+    <Content Include="Views\SE012CS\Index.cshtml" />
+    <Content Include="Views\SE013CS\Index.cshtml" />
+    <Content Include="Views\SE030CS\Index.cshtml" />
+    <Content Include="Views\SE001CS\Index.cshtml" />
+    <Content Include="Views\References\Index.cshtml" />
+    <Content Include="Views\MOC55339\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54570</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44350/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

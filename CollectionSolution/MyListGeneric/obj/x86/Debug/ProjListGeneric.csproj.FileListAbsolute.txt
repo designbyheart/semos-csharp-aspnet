@@ -1,0 +1,6 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\MyListGeneric\bin\Debug\MyListGeneric.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\MyListGeneric\bin\Debug\MyListGeneric.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\MyListGeneric\obj\x86\Debug\MyListGeneric.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\MyListGeneric\obj\x86\Debug\MyListGeneric.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\CollectionSolution\MyListGeneric\obj\x86\Debug\MyListGeneric.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\CollectionSolution\MyListGeneric\obj\x86\Debug\MyListGeneric.pdb

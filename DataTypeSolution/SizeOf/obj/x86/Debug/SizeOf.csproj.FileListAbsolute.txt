@@ -1,0 +1,11 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\SizeOf\bin\Debug\SizeOf.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\SizeOf\bin\Debug\SizeOf.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\SizeOf\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\SizeOf\obj\x86\Debug\SizeOf.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\SizeOf\obj\x86\Debug\SizeOf.pdb
+C:\CS (3 Days)\DataTypeSolution\SizeOf\bin\Debug\SizeOf.exe
+C:\CS (3 Days)\DataTypeSolution\SizeOf\bin\Debug\SizeOf.pdb
+C:\CS (3 Days)\DataTypeSolution\SizeOf\obj\x86\Debug\SizeOf.csproj.AssemblyReference.cache
+C:\CS (3 Days)\DataTypeSolution\SizeOf\obj\x86\Debug\SizeOf.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\SizeOf\obj\x86\Debug\SizeOf.exe
+C:\CS (3 Days)\DataTypeSolution\SizeOf\obj\x86\Debug\SizeOf.pdb

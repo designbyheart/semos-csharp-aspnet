@@ -1,0 +1,5 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestOperator\bin\Debug\TestOperator.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestOperator\bin\Debug\TestOperator.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestOperator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestOperator\obj\x86\Debug\TestOperator.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestOperator\obj\x86\Debug\TestOperator.pdb

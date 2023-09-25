@@ -1,0 +1,20 @@
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\bin\Debug\Matrix8.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\bin\Debug\Matrix8.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\bin\Debug\Matrix8.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\bin\Debug\Matrix8.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.pdb
+C:\CS\DataTypeSolution\Matrix8\bin\Debug\Matrix8.exe
+C:\CS\DataTypeSolution\Matrix8\bin\Debug\Matrix8.pdb
+C:\CS\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.exe
+C:\CS\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.pdb
+C:\CS (3 Days)\DataTypeSolution\Matrix8\bin\Debug\Matrix8.exe
+C:\CS (3 Days)\DataTypeSolution\Matrix8\bin\Debug\Matrix8.pdb
+C:\CS (3 Days)\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.exe
+C:\CS (3 Days)\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.pdb
+C:\CS (3 Days)\DataTypeSolution\Matrix8\obj\x86\Debug\Matrix8.csproj.AssemblyReference.cache

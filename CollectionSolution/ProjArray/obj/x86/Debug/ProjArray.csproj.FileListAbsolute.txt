@@ -1,0 +1,18 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjArray\bin\Debug\ProjArray.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjArray\bin\Debug\ProjArray.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.pdb
+C:\CS\CollectionSolution\ProjArray\bin\Debug\ProjArray.exe
+C:\CS\CollectionSolution\ProjArray\bin\Debug\ProjArray.pdb
+C:\CS\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.csprojAssemblyReference.cache
+C:\CS\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.csproj.CoreCompileInputs.cache
+C:\CS\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.exe
+C:\CS\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.pdb
+C:\CS (3 Days)\CollectionSolution\ProjArray\bin\Debug\ProjArray.exe
+C:\CS (3 Days)\CollectionSolution\ProjArray\bin\Debug\ProjArray.pdb
+C:\CS (3 Days)\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.csproj.AssemblyReference.cache
+C:\CS (3 Days)\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.exe
+C:\CS (3 Days)\CollectionSolution\ProjArray\obj\x86\Debug\ProjArray.pdb

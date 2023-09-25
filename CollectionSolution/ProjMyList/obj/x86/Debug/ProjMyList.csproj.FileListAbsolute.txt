@@ -1,0 +1,4 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjMyList\bin\Debug\ProjMyList.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjMyList\bin\Debug\ProjMyList.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjMyList\obj\x86\Debug\ProjMyList.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\CollectionSolution\ProjMyList\obj\x86\Debug\ProjMyList.pdb

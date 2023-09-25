@@ -1,0 +1,11 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestGC\bin\Debug\TestGC.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestGC\bin\Debug\TestGC.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestGC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestGC\obj\x86\Debug\TestGC.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestGC\obj\x86\Debug\TestGC.pdb
+C:\CS\DataTypeSolution\TestGC\bin\Debug\TestGC.exe
+C:\CS\DataTypeSolution\TestGC\bin\Debug\TestGC.pdb
+C:\CS\DataTypeSolution\TestGC\obj\x86\Debug\TestGC.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\TestGC\obj\x86\Debug\TestGC.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\TestGC\obj\x86\Debug\TestGC.exe
+C:\CS\DataTypeSolution\TestGC\obj\x86\Debug\TestGC.pdb

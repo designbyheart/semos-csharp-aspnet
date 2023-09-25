@@ -1,0 +1,10 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\MultiCastDelegate\obj\x86\Debug\MultiCastDelegate.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\MultiCastDelegate\obj\x86\Debug\MultiCastDelegate.pdb
+C:\CS\DelegateSolution\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+C:\CS\DelegateSolution\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+C:\CS\DelegateSolution\MultiCastDelegate\obj\x86\Debug\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\CS\DelegateSolution\MultiCastDelegate\obj\x86\Debug\MultiCastDelegate.exe
+C:\CS\DelegateSolution\MultiCastDelegate\obj\x86\Debug\MultiCastDelegate.pdb
+C:\CS\DelegateSolution\MultiCastDelegate\obj\x86\Debug\MultiCastDelegate.csproj.AssemblyReference.cache

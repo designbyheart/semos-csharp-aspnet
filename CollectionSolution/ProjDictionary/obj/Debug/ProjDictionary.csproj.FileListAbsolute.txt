@@ -1,0 +1,7 @@
+C:\CS\CollectionSolution\ProjDictionary\bin\Debug\ProjDictionary.exe.config
+C:\CS\CollectionSolution\ProjDictionary\bin\Debug\ProjDictionary.exe
+C:\CS\CollectionSolution\ProjDictionary\bin\Debug\ProjDictionary.pdb
+C:\CS\CollectionSolution\ProjDictionary\obj\Debug\ProjDictionary.csprojAssemblyReference.cache
+C:\CS\CollectionSolution\ProjDictionary\obj\Debug\ProjDictionary.csproj.CoreCompileInputs.cache
+C:\CS\CollectionSolution\ProjDictionary\obj\Debug\ProjDictionary.exe
+C:\CS\CollectionSolution\ProjDictionary\obj\Debug\ProjDictionary.pdb

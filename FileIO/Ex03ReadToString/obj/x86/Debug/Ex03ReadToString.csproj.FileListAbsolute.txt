@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex03ReadToString\bin\Debug\Ex03ReadToString.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex03ReadToString\bin\Debug\Ex03ReadToString.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex03ReadToString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex03ReadToString\bin\Debug\Ex03ReadToString.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex03ReadToString\bin\Debug\Ex03ReadToString.pdb
+C:\CS\FileIO\Ex03ReadToString\bin\Debug\Ex03ReadToString.exe
+C:\CS\FileIO\Ex03ReadToString\bin\Debug\Ex03ReadToString.pdb
+C:\CS\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.csproj.CoreCompileInputs.cache
+C:\CS\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.exe
+C:\CS\FileIO\Ex03ReadToString\obj\x86\Debug\Ex03ReadToString.pdb

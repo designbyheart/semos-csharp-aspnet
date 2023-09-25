@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pedja/Downloads/Day1/Ex0100/Ex0100.csproj": {}
+  },
+  "projects": {
+    "/Users/pedja/Downloads/Day1/Ex0100/Ex0100.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pedja/Downloads/Day1/Ex0100/Ex0100.csproj",
+        "projectName": "Ex0100",
+        "projectPath": "/Users/pedja/Downloads/Day1/Ex0100/Ex0100.csproj",
+        "packagesPath": "/Users/pedja/.nuget/packages/",
+        "outputPath": "/Users/pedja/Downloads/Day1/Ex0100/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pedja/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

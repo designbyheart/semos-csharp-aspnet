@@ -1,0 +1,10 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Island\bin\Debug\Island.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Island\bin\Debug\Island.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Island\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Island\obj\x86\Debug\Island.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Island\obj\x86\Debug\Island.pdb
+C:\CS\DataTypeSolution\Island\bin\Debug\Island.exe
+C:\CS\DataTypeSolution\Island\bin\Debug\Island.pdb
+C:\CS\DataTypeSolution\Island\obj\x86\Debug\Island.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\Island\obj\x86\Debug\Island.exe
+C:\CS\DataTypeSolution\Island\obj\x86\Debug\Island.pdb

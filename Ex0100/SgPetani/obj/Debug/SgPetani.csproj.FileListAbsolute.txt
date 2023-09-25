@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Day1\SgPetani\bin\Debug\SgPetani.dll
+C:\Users\User\source\repos\Day1\SgPetani\bin\Debug\SgPetani.pdb
+C:\Users\User\source\repos\Day1\SgPetani\obj\Debug\SgPetani.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Day1\SgPetani\obj\Debug\SgPetani.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day1\SgPetani\obj\Debug\SgPetani.dll
+C:\Users\User\source\repos\Day1\SgPetani\obj\Debug\SgPetani.pdb
