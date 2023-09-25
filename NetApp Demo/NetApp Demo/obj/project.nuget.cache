@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rplV5LS1tuOoV8GJZ3i0hTNEwEaze+E94ZlWBL9xx+nTeUnPlJl5+KJmU/Hq1hvmjCkwc/+Fhnu+QFA+OJBOng==",
+  "dgSpecHash": "ly5eNZaHv9l8bkmltNalni0SzQ+PqVVL4QP1Bct0v/Lf5utyxG3W28G1SIfyVBTQ5BV8sNIIv0LlNl6ZGlw1IA==",
   "success": true,
-  "projectFilePath": "/Users/predragjevtic/Projects/NetApp Demo/NetApp Demo/NetApp Demo.csproj",
+  "projectFilePath": "/Users/predragjevtic/work/semos-otp/NetApp Demo/NetApp Demo/NetApp Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

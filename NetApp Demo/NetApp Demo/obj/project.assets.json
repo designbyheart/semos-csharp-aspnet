@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/predragjevtic/Projects/NetApp Demo/NetApp Demo/NetApp Demo.csproj",
+      "projectUniqueName": "/Users/predragjevtic/work/semos-otp/NetApp Demo/NetApp Demo/NetApp Demo.csproj",
       "projectName": "NetApp Demo",
-      "projectPath": "/Users/predragjevtic/Projects/NetApp Demo/NetApp Demo/NetApp Demo.csproj",
+      "projectPath": "/Users/predragjevtic/work/semos-otp/NetApp Demo/NetApp Demo/NetApp Demo.csproj",
       "packagesPath": "/Users/predragjevtic/.nuget/packages/",
-      "outputPath": "/Users/predragjevtic/Projects/NetApp Demo/NetApp Demo/obj/",
+      "outputPath": "/Users/predragjevtic/work/semos-otp/NetApp Demo/NetApp Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/predragjevtic/.nuget/NuGet/NuGet.Config"
