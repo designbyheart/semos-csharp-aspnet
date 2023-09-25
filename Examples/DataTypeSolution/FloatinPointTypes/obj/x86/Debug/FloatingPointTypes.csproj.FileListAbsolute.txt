@@ -1,0 +1,16 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.pdb
+C:\CS\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.exe
+C:\CS\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.pdb
+C:\CS\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatingPointTypes.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatingPointTypes.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.exe
+C:\CS\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.pdb
+C:\CS (3 Days)\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.exe
+C:\CS (3 Days)\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.pdb
+C:\CS (3 Days)\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatingPointTypes.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.exe
+C:\CS (3 Days)\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.pdb

@@ -1,0 +1,7 @@
+D:\UOB\Database\Ex01\bin\Debug\Ex01.exe.config
+D:\UOB\Database\Ex01\bin\Debug\Ex01.exe
+D:\UOB\Database\Ex01\bin\Debug\Ex01.pdb
+D:\UOB\Database\Ex01\obj\Debug\Ex01.csproj.AssemblyReference.cache
+D:\UOB\Database\Ex01\obj\Debug\Ex01.csproj.CoreCompileInputs.cache
+D:\UOB\Database\Ex01\obj\Debug\Ex01.exe
+D:\UOB\Database\Ex01\obj\Debug\Ex01.pdb

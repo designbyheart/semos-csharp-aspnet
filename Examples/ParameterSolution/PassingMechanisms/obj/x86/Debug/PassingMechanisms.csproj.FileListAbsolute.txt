@@ -1,0 +1,11 @@
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\PassingMechanisms\bin\Debug\PassingMechanisms.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\PassingMechanisms\bin\Debug\PassingMechanisms.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\PassingMechanisms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\PassingMechanisms\obj\x86\Debug\PassingMechanisms.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\PassingMechanisms\obj\x86\Debug\PassingMechanisms.pdb
+C:\CS\ParameterSolution\PassingMechanisms\bin\Debug\PassingMechanisms.exe
+C:\CS\ParameterSolution\PassingMechanisms\bin\Debug\PassingMechanisms.pdb
+C:\CS\ParameterSolution\PassingMechanisms\obj\x86\Debug\PassingMechanisms.csproj.CoreCompileInputs.cache
+C:\CS\ParameterSolution\PassingMechanisms\obj\x86\Debug\PassingMechanisms.exe
+C:\CS\ParameterSolution\PassingMechanisms\obj\x86\Debug\PassingMechanisms.pdb
+C:\CS\ParameterSolution\PassingMechanisms\obj\x86\Debug\PassingMechanisms.csproj.AssemblyReference.cache

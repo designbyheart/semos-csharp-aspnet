@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\obj\x86\Debug\AnonymousType.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\obj\x86\Debug\AnonymousType.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\obj\x86\Debug\AnonymousType.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\AnonymousType\obj\x86\Debug\AnonymousType.pdb

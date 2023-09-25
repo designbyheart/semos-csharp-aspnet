@@ -1,0 +1,10 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\SingleCastDelegate\bin\Debug\SingleCastDelegate.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\SingleCastDelegate\bin\Debug\SingleCastDelegate.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\SingleCastDelegate\obj\x86\Debug\SingleCastDelegate.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\DelegateSolution\SingleCastDelegate\obj\x86\Debug\SingleCastDelegate.pdb
+C:\CS\DelegateSolution\SingleCastDelegate\bin\Debug\SingleCastDelegate.exe
+C:\CS\DelegateSolution\SingleCastDelegate\bin\Debug\SingleCastDelegate.pdb
+C:\CS\DelegateSolution\SingleCastDelegate\obj\x86\Debug\SingleCastDelegate.csproj.AssemblyReference.cache
+C:\CS\DelegateSolution\SingleCastDelegate\obj\x86\Debug\SingleCastDelegate.csproj.CoreCompileInputs.cache
+C:\CS\DelegateSolution\SingleCastDelegate\obj\x86\Debug\SingleCastDelegate.exe
+C:\CS\DelegateSolution\SingleCastDelegate\obj\x86\Debug\SingleCastDelegate.pdb

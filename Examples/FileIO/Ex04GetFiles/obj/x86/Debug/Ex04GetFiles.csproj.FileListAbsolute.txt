@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex04GetFiles\bin\Debug\Ex04GetFiles.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex04GetFiles\bin\Debug\Ex04GetFiles.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex04GetFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex04GetFiles\bin\Debug\Ex04GetFiles.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex04GetFiles\bin\Debug\Ex04GetFiles.pdb
+C:\CS\FileIO\Ex04GetFiles\bin\Debug\Ex04GetFiles.exe
+C:\CS\FileIO\Ex04GetFiles\bin\Debug\Ex04GetFiles.pdb
+C:\CS\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.csproj.CoreCompileInputs.cache
+C:\CS\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.exe
+C:\CS\FileIO\Ex04GetFiles\obj\x86\Debug\Ex04GetFiles.pdb

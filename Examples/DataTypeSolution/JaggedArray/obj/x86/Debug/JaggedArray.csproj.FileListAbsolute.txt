@@ -1,0 +1,21 @@
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\JaggedArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CS\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.exe
+C:\CS\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\CS\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.exe
+C:\CS\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.pdb
+C:\CS (3 Days)\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.exe
+C:\CS (3 Days)\DataTypeSolution\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\CS (3 Days)\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\CS (3 Days)\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.exe
+C:\CS (3 Days)\DataTypeSolution\JaggedArray\obj\x86\Debug\JaggedArray.pdb

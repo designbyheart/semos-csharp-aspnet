@@ -1,0 +1,7 @@
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\bin\Debug\DisposableFramework.exe.config
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\bin\Debug\DisposableFramework.exe
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\bin\Debug\DisposableFramework.pdb
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\obj\Debug\DisposableFramework.csproj.AssemblyReference.cache
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\obj\Debug\DisposableFramework.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\obj\Debug\DisposableFramework.exe
+C:\CS (3 Days)\DataTypeSolution\DisposableFramework\obj\Debug\DisposableFramework.pdb

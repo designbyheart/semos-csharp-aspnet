@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\Basic07\bin\Debug\Basic07.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\Basic07\bin\Debug\Basic07.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\Basic07\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\Basic07\obj\x86\Debug\Basic07.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\Basic07\obj\x86\Debug\Basic07.pdb

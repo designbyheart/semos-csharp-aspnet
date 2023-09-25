@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Day1\Ex0101\bin\Debug\Ex0101.exe.config
+C:\Users\User\source\repos\Day1\Ex0101\bin\Debug\Ex0101.exe
+C:\Users\User\source\repos\Day1\Ex0101\bin\Debug\Ex0101.pdb
+C:\Users\User\source\repos\Day1\Ex0101\obj\Debug\Ex0101.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Day1\Ex0101\obj\Debug\Ex0101.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Day1\Ex0101\obj\Debug\Ex0101.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day1\Ex0101\obj\Debug\Ex0101.exe
+C:\Users\User\source\repos\Day1\Ex0101\obj\Debug\Ex0101.pdb
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\bin\Debug\Ex0101.exe.config
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\bin\Debug\Ex0101.exe
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\bin\Debug\Ex0101.pdb
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\obj\Debug\Ex0101.csproj.AssemblyReference.cache
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\obj\Debug\Ex0101.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\obj\Debug\Ex0101.exe
+C:\Users\pedja\source\repos\Examples\Day1\Ex0101\obj\Debug\Ex0101.pdb

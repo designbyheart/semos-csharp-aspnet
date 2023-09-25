@@ -1,0 +1,7 @@
+C:\CS\DelegateSolution\Univeristy\bin\Debug\Univeristy.exe.config
+C:\CS\DelegateSolution\Univeristy\bin\Debug\Univeristy.exe
+C:\CS\DelegateSolution\Univeristy\bin\Debug\Univeristy.pdb
+C:\CS\DelegateSolution\Univeristy\obj\Debug\Univeristy.csproj.AssemblyReference.cache
+C:\CS\DelegateSolution\Univeristy\obj\Debug\Univeristy.csproj.CoreCompileInputs.cache
+C:\CS\DelegateSolution\Univeristy\obj\Debug\Univeristy.exe
+C:\CS\DelegateSolution\Univeristy\obj\Debug\Univeristy.pdb

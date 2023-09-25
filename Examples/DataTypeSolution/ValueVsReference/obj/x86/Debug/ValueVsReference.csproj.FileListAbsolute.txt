@@ -1,0 +1,21 @@
+c:\users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.pdb
+c:\users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.exe
+c:\users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ValueVsReference\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.pdb
+C:\CS\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.exe
+C:\CS\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.pdb
+C:\CS\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.exe
+C:\CS\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.pdb
+C:\CS (3 Days)\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.exe
+C:\CS (3 Days)\DataTypeSolution\ValueVsReference\bin\Debug\ValueVsReference.pdb
+C:\CS (3 Days)\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.csproj.AssemblyReference.cache
+C:\CS (3 Days)\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.exe
+C:\CS (3 Days)\DataTypeSolution\ValueVsReference\obj\x86\Debug\ValueVsReference.pdb

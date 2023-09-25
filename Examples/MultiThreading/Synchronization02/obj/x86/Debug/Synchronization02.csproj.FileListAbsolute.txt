@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization02\bin\Debug\Synchronization02.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization02\bin\Debug\Synchronization02.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization02\obj\x86\Debug\Synchronization02.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization02\obj\x86\Debug\Synchronization02.pdb
+C:\CS\MultiThreading\Synchronization02\bin\Debug\Synchronization02.exe
+C:\CS\MultiThreading\Synchronization02\bin\Debug\Synchronization02.pdb
+C:\CS\MultiThreading\Synchronization02\obj\x86\Debug\Synchronization02.csproj.CoreCompileInputs.cache
+C:\CS\MultiThreading\Synchronization02\obj\x86\Debug\Synchronization02.exe
+C:\CS\MultiThreading\Synchronization02\obj\x86\Debug\Synchronization02.pdb
+C:\CS\MultiThreading\Synchronization02\obj\x86\Debug\Synchronization02.csproj.AssemblyReference.cache

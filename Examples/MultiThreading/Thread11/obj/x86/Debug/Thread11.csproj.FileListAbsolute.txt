@@ -1,0 +1,10 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread11\bin\Debug\Thread11.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread11\bin\Debug\Thread11.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread11\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread11\obj\x86\Debug\Thread11.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread11\obj\x86\Debug\Thread11.pdb
+C:\CS\MultiThreading\Thread11\bin\Debug\Thread11.exe
+C:\CS\MultiThreading\Thread11\bin\Debug\Thread11.pdb
+C:\CS\MultiThreading\Thread11\obj\x86\Debug\Thread11.csproj.CoreCompileInputs.cache
+C:\CS\MultiThreading\Thread11\obj\x86\Debug\Thread11.exe
+C:\CS\MultiThreading\Thread11\obj\x86\Debug\Thread11.pdb

@@ -1,0 +1,5 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleStruct\bin\Debug\CircleStruct.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleStruct\bin\Debug\CircleStruct.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleStruct\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleStruct\obj\x86\Debug\CircleStruct.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CircleStruct\obj\x86\Debug\CircleStruct.pdb

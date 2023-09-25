@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - C# Courses Supporting Site</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("🏡", "Index", "Home", new { area = "" }, new { @class = "navbar-brand", title = "Home" })
+          </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("MOC20483", "Index", "MOC20483", null, new { Class = "action add", title = "Programming in C#" })</li>
+                <li>@Html.ActionLink("MOC55339", "Index", "MOC55339", null, new { Class = "action add", title = "Programming in C#" })</li>
+                <li>@Html.ActionLink("SE001CS", "Index", "SE001CS", null, new { Class = "action add", title = "Introduction to C#" })</li>
+                <li>@Html.ActionLink("SE005CS", "Index", "SE005CS", null, new { Class = "action add", title = "High Performance C#" })</li>
+                <li>@Html.ActionLink("SE012CS", "Index", "SE012CS", null, new { Class = "action add", title = "Defensive Programming in C#" })</li>
+                <li>@Html.ActionLink("SE013CS", "Index", "SE013CS", null, new { Class = "action add", title = "Refactoring to Patterns using C#" })</li>
+                <li>@Html.ActionLink("SE030CS", "Index", "SE030CS", null, new { Class = "action add", title = "Advanced C#" })</li>
+                <li>@Html.ActionLink("🕮", "Index", "References", null, new { Class = "action add", title = "References" })</li>
+                <li>@Html.ActionLink("❓", "About", "Home", null, new { Class = "action add", title = "About" })</li>
+                <li>@Html.ActionLink("☎️", "Contact", "Home", null, new { Class = "action add", title = "Contact" })</li>
+              </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - C# Courses</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

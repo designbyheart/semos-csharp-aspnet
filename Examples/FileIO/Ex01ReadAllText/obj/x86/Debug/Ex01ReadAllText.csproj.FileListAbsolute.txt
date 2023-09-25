@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex01ReadAllText\bin\Debug\Ex01ReadAllText.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex01ReadAllText\bin\Debug\Ex01ReadAllText.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex01ReadAllText\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex01ReadAllText\bin\Debug\Ex01ReadAllText.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex01ReadAllText\bin\Debug\Ex01ReadAllText.pdb
+C:\CS\FileIO\Ex01ReadAllText\bin\Debug\Ex01ReadAllText.exe
+C:\CS\FileIO\Ex01ReadAllText\bin\Debug\Ex01ReadAllText.pdb
+C:\CS\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.csproj.CoreCompileInputs.cache
+C:\CS\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.exe
+C:\CS\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.pdb
+C:\CS\FileIO\Ex01ReadAllText\obj\x86\Debug\Ex01ReadAllText.csproj.AssemblyReference.cache

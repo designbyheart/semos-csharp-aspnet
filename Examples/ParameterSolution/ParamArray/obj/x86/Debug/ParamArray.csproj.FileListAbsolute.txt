@@ -1,0 +1,21 @@
+c:/users/lecturer/documents/visual studio 2010/Projects/ParameterSolution/ParamArray/bin/Debug/ParamArray.exe
+c:/users/lecturer/documents/visual studio 2010/Projects/ParameterSolution/ParamArray/bin/Debug/ParamArray.pdb
+c:/users/lecturer/documents/visual studio 2010/Projects/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.exe
+c:/users/lecturer/documents/visual studio 2010/Projects/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.pdb
+C:/Users/itdtpadmin/Documents/Visual Studio 2010/Projects/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.exe
+C:/Users/itdtpadmin/Documents/Visual Studio 2010/Projects/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.pdb
+C:/Users/itdtpadmin/Documents/Visual Studio 2010/Projects/ParameterSolution/ParamArray/bin/Debug/ParamArray.exe
+C:/Users/itdtpadmin/Documents/Visual Studio 2010/Projects/ParameterSolution/ParamArray/bin/Debug/ParamArray.pdb
+C:/Users/itdtpadmin/Documents/Visual Studio 2010/Projects/ParameterSolution/ParamArray/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/CS/ParameterSolution/ParamArray/bin/Debug/ParamArray.exe
+C:/CS/ParameterSolution/ParamArray/bin/Debug/ParamArray.pdb
+C:/CS/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.csproj.AssemblyReference.cache
+C:/CS/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.csproj.CoreCompileInputs.cache
+C:/CS/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.exe
+C:/CS/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.pdb
+/Users/pedja/Downloads/ParameterSolution/ParamArray/bin/Debug/ParamArray.exe.config
+/Users/pedja/Downloads/ParameterSolution/ParamArray/bin/Debug/ParamArray.exe
+/Users/pedja/Downloads/ParameterSolution/ParamArray/bin/Debug/ParamArray.pdb
+/Users/pedja/Downloads/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.csproj.CoreCompileInputs.cache
+/Users/pedja/Downloads/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.exe
+/Users/pedja/Downloads/ParameterSolution/ParamArray/obj/x86/Debug/ParamArray.pdb

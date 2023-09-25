@@ -1,0 +1,13 @@
+﻿@model CS.Models.Book
+@{
+  string img = Url.Content(@Model.Image);
+}
+@if (Model.Download == null) {
+  <tr style="background-color:lightgreen;"><th rowspan="5"><img src="@img" width="80" /></th><th>Title</th><th>@Model.Title</th></tr>
+} else {
+  <tr style="background-color:lightgreen;"><th rowspan="5"><a target="_blank" href="@Model.Download"><img src="@img" width="80" /></a></th><th>Title</th><th>@Model.Title</th></tr>
+}
+<tr><th>ISBN</th><td>@Model.ISBN</td></tr>
+<tr><th>Author</th><td>@Model.Author</td></tr>
+<tr><th>Year</th><td>@Model.Year</td></tr>
+<tr><th>Publisher	</th><td>@Model.Publisher</td></tr>

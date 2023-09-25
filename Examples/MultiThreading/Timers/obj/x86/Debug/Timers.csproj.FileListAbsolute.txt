@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Timers\bin\Debug\Timers.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Timers\bin\Debug\Timers.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Timers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Timers\obj\x86\Debug\Timers.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Timers\obj\x86\Debug\Timers.pdb

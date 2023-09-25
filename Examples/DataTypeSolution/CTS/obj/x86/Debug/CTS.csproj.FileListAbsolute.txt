@@ -1,0 +1,5 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CTS\bin\Debug\CTS.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CTS\bin\Debug\CTS.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CTS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CTS\obj\x86\Debug\CTS.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\CTS\obj\x86\Debug\CTS.pdb

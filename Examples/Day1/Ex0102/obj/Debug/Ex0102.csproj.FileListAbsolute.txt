@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Day1\Ex0102\bin\Debug\Ex0102.exe.config
+C:\Users\User\source\repos\Day1\Ex0102\bin\Debug\Ex0102.exe
+C:\Users\User\source\repos\Day1\Ex0102\bin\Debug\Ex0102.pdb
+C:\Users\User\source\repos\Day1\Ex0102\obj\Debug\Ex0102.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Day1\Ex0102\obj\Debug\Ex0102.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Day1\Ex0102\obj\Debug\Ex0102.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day1\Ex0102\obj\Debug\Ex0102.exe
+C:\Users\User\source\repos\Day1\Ex0102\obj\Debug\Ex0102.pdb

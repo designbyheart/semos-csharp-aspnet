@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex05DeleteFiles\bin\Debug\Ex05DeleteFiles.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex05DeleteFiles\bin\Debug\Ex05DeleteFiles.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex05DeleteFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex05DeleteFiles\bin\Debug\Ex05DeleteFiles.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex05DeleteFiles\bin\Debug\Ex05DeleteFiles.pdb
+C:\CS\FileIO\Ex05DeleteFiles\bin\Debug\Ex05DeleteFiles.exe
+C:\CS\FileIO\Ex05DeleteFiles\bin\Debug\Ex05DeleteFiles.pdb
+C:\CS\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.csproj.CoreCompileInputs.cache
+C:\CS\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.exe
+C:\CS\FileIO\Ex05DeleteFiles\obj\x86\Debug\Ex05DeleteFiles.pdb
