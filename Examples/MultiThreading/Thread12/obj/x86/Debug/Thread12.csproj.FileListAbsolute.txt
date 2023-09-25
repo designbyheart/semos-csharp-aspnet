@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread12\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread12\bin\Debug\Thread12.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread12\bin\Debug\Thread12.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread12\obj\x86\Debug\Thread12.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread12\obj\x86\Debug\Thread12.pdb

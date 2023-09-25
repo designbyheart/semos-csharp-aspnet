@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex06DeleteDirectory\bin\Debug\Ex06DeleteDirectory.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex06DeleteDirectory\bin\Debug\Ex06DeleteDirectory.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex06DeleteDirectory\bin\Debug\Ex06DeleteDirectory.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.pdb
+C:\CS\FileIO\Ex06DeleteDirectory\bin\Debug\Ex06DeleteDirectory.exe.config
+C:\CS\FileIO\Ex06DeleteDirectory\bin\Debug\Ex06DeleteDirectory.exe
+C:\CS\FileIO\Ex06DeleteDirectory\bin\Debug\Ex06DeleteDirectory.pdb
+C:\CS\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.csprojAssemblyReference.cache
+C:\CS\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.csproj.CoreCompileInputs.cache
+C:\CS\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.exe
+C:\CS\FileIO\Ex06DeleteDirectory\obj\Debug\Ex06DeleteDirectory.pdb

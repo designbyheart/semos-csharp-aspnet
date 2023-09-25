@@ -1,0 +1,11 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread02\bin\Debug\Thread02.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread02\bin\Debug\Thread02.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread02\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread02\obj\x86\Debug\Thread02.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread02\obj\x86\Debug\Thread02.pdb
+C:\CS\MultiThreading\Thread02\bin\Debug\Thread02.exe
+C:\CS\MultiThreading\Thread02\bin\Debug\Thread02.pdb
+C:\CS\MultiThreading\Thread02\obj\x86\Debug\Thread02.csproj.AssemblyReference.cache
+C:\CS\MultiThreading\Thread02\obj\x86\Debug\Thread02.csproj.CoreCompileInputs.cache
+C:\CS\MultiThreading\Thread02\obj\x86\Debug\Thread02.exe
+C:\CS\MultiThreading\Thread02\obj\x86\Debug\Thread02.pdb

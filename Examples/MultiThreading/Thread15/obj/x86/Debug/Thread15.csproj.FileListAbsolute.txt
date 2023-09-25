@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread15\bin\Debug\Thread15.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread15\bin\Debug\Thread15.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread15\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread15\obj\x86\Debug\Thread15.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MultiThreading\Thread15\obj\x86\Debug\Thread15.pdb

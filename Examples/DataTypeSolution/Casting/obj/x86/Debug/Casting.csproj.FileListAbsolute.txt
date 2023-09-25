@@ -1,0 +1,5 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Casting\bin\Debug\Casting.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Casting\bin\Debug\Casting.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Casting\obj\x86\Debug\Casting.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Casting\obj\x86\Debug\Casting.pdb

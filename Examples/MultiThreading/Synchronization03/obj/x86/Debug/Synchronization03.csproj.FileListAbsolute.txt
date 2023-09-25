@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization03\bin\Debug\Synchronization03.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization03\bin\Debug\Synchronization03.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization03\obj\x86\Debug\Synchronization03.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Synchronization03\obj\x86\Debug\Synchronization03.pdb
+C:\CS\MultiThreading\Synchronization03\bin\Debug\Synchronization03.exe
+C:\CS\MultiThreading\Synchronization03\bin\Debug\Synchronization03.pdb
+C:\CS\MultiThreading\Synchronization03\obj\x86\Debug\Synchronization03.csproj.CoreCompileInputs.cache
+C:\CS\MultiThreading\Synchronization03\obj\x86\Debug\Synchronization03.exe
+C:\CS\MultiThreading\Synchronization03\obj\x86\Debug\Synchronization03.pdb

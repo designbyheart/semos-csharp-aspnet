@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\bin\Debug\Lambda02.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\bin\Debug\Lambda02.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\bin\Debug\Lambda02.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\bin\Debug\Lambda02.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.pdb
+C:\CS\LINQ Solution\Lambda02\bin\Debug\Lambda02.exe
+C:\CS\LINQ Solution\Lambda02\bin\Debug\Lambda02.pdb
+C:\CS\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.csprojAssemblyReference.cache
+C:\CS\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.csproj.CoreCompileInputs.cache
+C:\CS\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.exe
+C:\CS\LINQ Solution\Lambda02\obj\x86\Debug\Lambda02.pdb

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Ex0100",
+      "appliesTo": "Ex0100/Ex0100.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

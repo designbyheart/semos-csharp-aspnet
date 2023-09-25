@@ -1,0 +1,9 @@
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ComplexValueType\bin\Debug\ComplexValueType.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ComplexValueType\bin\Debug\ComplexValueType.pdb
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ComplexValueType\obj\x86\Debug\ComplexValueType.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ComplexValueType\obj\x86\Debug\ComplexValueType.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ComplexValueType\bin\Debug\ComplexValueType.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ComplexValueType\bin\Debug\ComplexValueType.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ComplexValueType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ComplexValueType\obj\x86\Debug\ComplexValueType.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ComplexValueType\obj\x86\Debug\ComplexValueType.pdb

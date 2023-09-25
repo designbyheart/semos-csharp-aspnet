@@ -1,0 +1,13 @@
+﻿@model CS.Models.Module
+@if (Model.Lessons.Count() == 0) {
+  <div class="module">@Model.Title</div>
+} else {
+<button class="module collapsible">@Model.Title</button>
+  <div class="content">
+    <ul>
+      @foreach (var lesson in Model.Lessons) {
+        <li>@lesson</li>
+      }
+    </ul>
+  </div>
+}

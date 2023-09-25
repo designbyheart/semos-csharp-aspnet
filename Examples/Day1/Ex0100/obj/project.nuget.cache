@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIyLSE4S1InjHqL/TnouuA5Y5vGVbH2rpsRMNKay3Xi5f9ptGRTJASFbCW+yJYD6E2MjGlIxGq8v+rsVD91p0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedja\\source\\repos\\Examples\\Day1\\Ex0100\\Ex0100.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pedja\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pedja\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\5.0.17\\microsoft.netcore.app.host.win-arm64.5.0.17.nupkg.sha512",
+    "C:\\Users\\pedja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

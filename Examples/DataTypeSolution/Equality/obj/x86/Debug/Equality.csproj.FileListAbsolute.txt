@@ -1,0 +1,11 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Equality\bin\Debug\Equality.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Equality\bin\Debug\Equality.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Equality\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Equality\obj\x86\Debug\Equality.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\Equality\obj\x86\Debug\Equality.pdb
+C:\CS\DataTypeSolution\Equality\bin\Debug\Equality.exe
+C:\CS\DataTypeSolution\Equality\bin\Debug\Equality.pdb
+C:\CS\DataTypeSolution\Equality\obj\x86\Debug\Equality.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\Equality\obj\x86\Debug\Equality.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\Equality\obj\x86\Debug\Equality.exe
+C:\CS\DataTypeSolution\Equality\obj\x86\Debug\Equality.pdb

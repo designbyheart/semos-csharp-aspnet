@@ -1,0 +1,10 @@
+D:\UOB\Database\Ex07\bin\Debug\Ex07.exe.config
+D:\UOB\Database\Ex07\bin\Debug\Ex07.exe
+D:\UOB\Database\Ex07\bin\Debug\Ex07.pdb
+D:\UOB\Database\Ex07\obj\Debug\Ex07.csproj.AssemblyReference.cache
+D:\UOB\Database\Ex07\obj\Debug\Ex07.Form1.resources
+D:\UOB\Database\Ex07\obj\Debug\Ex07.Properties.Resources.resources
+D:\UOB\Database\Ex07\obj\Debug\Ex07.csproj.GenerateResource.cache
+D:\UOB\Database\Ex07\obj\Debug\Ex07.csproj.CoreCompileInputs.cache
+D:\UOB\Database\Ex07\obj\Debug\Ex07.exe
+D:\UOB\Database\Ex07\obj\Debug\Ex07.pdb

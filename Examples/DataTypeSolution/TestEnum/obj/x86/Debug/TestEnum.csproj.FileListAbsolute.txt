@@ -1,0 +1,5 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestEnum\bin\Debug\TestEnum.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestEnum\bin\Debug\TestEnum.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestEnum\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestEnum\obj\x86\Debug\TestEnum.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\TestEnum\obj\x86\Debug\TestEnum.pdb

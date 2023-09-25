@@ -1,0 +1,5 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\bin\Debug\FloatinPointTypes.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\FloatinPointTypes\obj\x86\Debug\FloatinPointTypes.pdb

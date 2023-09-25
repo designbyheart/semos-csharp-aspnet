@@ -1,0 +1,16 @@
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\DestructorChain\bin\Debug\DestructorChain.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\DestructorChain\bin\Debug\DestructorChain.pdb
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\DestructorChain\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.exe
+c:\users\itdtpadmin\documents\visual studio 2010\Projects\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.pdb
+C:\CS\DataTypeSolution\DestructorChain\bin\Debug\DestructorChain.exe
+C:\CS\DataTypeSolution\DestructorChain\bin\Debug\DestructorChain.pdb
+C:\CS\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.exe
+C:\CS\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.pdb
+C:\CS (3 Days)\DataTypeSolution\DestructorChain\bin\Debug\DestructorChain.exe
+C:\CS (3 Days)\DataTypeSolution\DestructorChain\bin\Debug\DestructorChain.pdb
+C:\CS (3 Days)\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.csproj.AssemblyReference.cache
+C:\CS (3 Days)\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.exe
+C:\CS (3 Days)\DataTypeSolution\DestructorChain\obj\x86\Debug\DestructorChain.pdb

@@ -1,0 +1,9 @@
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Array1D\bin\Debug\Array1D.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Array1D\bin\Debug\Array1D.pdb
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Array1D\obj\x86\Debug\Array1D.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\Array1D\obj\x86\Debug\Array1D.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Array1D\bin\Debug\Array1D.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Array1D\bin\Debug\Array1D.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Array1D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Array1D\obj\x86\Debug\Array1D.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Array1D\obj\x86\Debug\Array1D.pdb

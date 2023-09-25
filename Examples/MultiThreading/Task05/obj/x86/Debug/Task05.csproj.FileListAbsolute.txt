@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Task05\bin\Debug\Task05.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Task05\bin\Debug\Task05.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Task05\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Task05\obj\x86\Debug\Task05.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MultiThreading\Task05\obj\x86\Debug\Task05.pdb

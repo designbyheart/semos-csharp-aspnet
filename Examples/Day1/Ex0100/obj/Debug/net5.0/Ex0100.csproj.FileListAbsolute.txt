@@ -1,0 +1,15 @@
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\bin\Debug\net5.0\Ex0100.exe
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\bin\Debug\net5.0\Ex0100.deps.json
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\bin\Debug\net5.0\Ex0100.runtimeconfig.json
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\bin\Debug\net5.0\Ex0100.runtimeconfig.dev.json
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\bin\Debug\net5.0\Ex0100.dll
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\bin\Debug\net5.0\Ex0100.pdb
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.AssemblyInfoInputs.cache
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.AssemblyInfo.cs
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.dll
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\refint\Ex0100.dll
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.pdb
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\Ex0100.genruntimeconfig.cache
+C:\Users\pedja\source\repos\Examples\Day1\Ex0100\obj\Debug\net5.0\ref\Ex0100.dll

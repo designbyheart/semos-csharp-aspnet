@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\ExtensionMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.pdb
+C:\CS\LINQ Solution\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\CS\LINQ Solution\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\CS\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\CS\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.exe
+C:\CS\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.pdb
+C:\CS\LINQ Solution\ExtensionMethod\obj\x86\Debug\ExtensionMethod.csproj.AssemblyReference.cache

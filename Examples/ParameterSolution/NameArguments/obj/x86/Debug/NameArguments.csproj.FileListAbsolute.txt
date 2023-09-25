@@ -1,0 +1,5 @@
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\NameArguments\bin\Debug\NameArguments.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\NameArguments\bin\Debug\NameArguments.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\NameArguments\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\NameArguments\obj\x86\Debug\NameArguments.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\ParameterSolution\NameArguments\obj\x86\Debug\NameArguments.pdb

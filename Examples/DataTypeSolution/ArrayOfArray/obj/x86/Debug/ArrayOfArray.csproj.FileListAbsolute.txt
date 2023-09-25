@@ -1,0 +1,9 @@
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ArrayOfArray\bin\Debug\ArrayOfArray.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ArrayOfArray\bin\Debug\ArrayOfArray.pdb
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ArrayOfArray\obj\x86\Debug\ArrayOfArray.exe
+C:\Users\lecturer\documents\visual studio 2010\Projects\DataTypeSolution\ArrayOfArray\obj\x86\Debug\ArrayOfArray.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ArrayOfArray\bin\Debug\ArrayOfArray.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ArrayOfArray\bin\Debug\ArrayOfArray.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ArrayOfArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ArrayOfArray\obj\x86\Debug\ArrayOfArray.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\ArrayOfArray\obj\x86\Debug\ArrayOfArray.pdb

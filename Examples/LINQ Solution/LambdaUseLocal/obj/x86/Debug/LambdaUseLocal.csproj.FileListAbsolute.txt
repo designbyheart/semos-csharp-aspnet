@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\LambdaUseLocal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\LambdaUseLocal\bin\Debug\LambdaUseLocal.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\LambdaUseLocal\bin\Debug\LambdaUseLocal.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\LambdaUseLocal\obj\x86\Debug\LambdaUseLocal.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\LambdaUseLocal\obj\x86\Debug\LambdaUseLocal.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LambdaUseLocal\bin\Debug\LambdaUseLocal.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LambdaUseLocal\bin\Debug\LambdaUseLocal.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LambdaUseLocal\obj\x86\Debug\LambdaUseLocal.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LambdaUseLocal\obj\x86\Debug\LambdaUseLocal.pdb

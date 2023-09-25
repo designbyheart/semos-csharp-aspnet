@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\bin\Debug\LINQXMLEx01.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\bin\Debug\LINQXMLEx01.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\obj\x86\Debug\LINQXMLEx01.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\obj\x86\Debug\LINQXMLEx01.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\bin\Debug\LINQXMLEx01.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\bin\Debug\LINQXMLEx01.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\obj\x86\Debug\LINQXMLEx01.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\LINQXMLEx01\obj\x86\Debug\LINQXMLEx01.pdb

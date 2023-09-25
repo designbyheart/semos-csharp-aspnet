@@ -1,0 +1,14 @@
+C:\CS\DataTypeSolution\Unicode\bin\Debug\Unicode.exe.config
+C:\CS\DataTypeSolution\Unicode\bin\Debug\Unicode.exe
+C:\CS\DataTypeSolution\Unicode\bin\Debug\Unicode.pdb
+C:\CS\DataTypeSolution\Unicode\obj\Debug\Unicode.csprojAssemblyReference.cache
+C:\CS\DataTypeSolution\Unicode\obj\Debug\Unicode.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\Unicode\obj\Debug\Unicode.exe
+C:\CS\DataTypeSolution\Unicode\obj\Debug\Unicode.pdb
+C:\CS (3 Days)\DataTypeSolution\Unicode\bin\Debug\Unicode.exe.config
+C:\CS (3 Days)\DataTypeSolution\Unicode\bin\Debug\Unicode.exe
+C:\CS (3 Days)\DataTypeSolution\Unicode\bin\Debug\Unicode.pdb
+C:\CS (3 Days)\DataTypeSolution\Unicode\obj\Debug\Unicode.csproj.AssemblyReference.cache
+C:\CS (3 Days)\DataTypeSolution\Unicode\obj\Debug\Unicode.csproj.CoreCompileInputs.cache
+C:\CS (3 Days)\DataTypeSolution\Unicode\obj\Debug\Unicode.exe
+C:\CS (3 Days)\DataTypeSolution\Unicode\obj\Debug\Unicode.pdb

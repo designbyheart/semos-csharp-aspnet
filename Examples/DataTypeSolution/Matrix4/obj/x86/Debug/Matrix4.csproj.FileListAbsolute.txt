@@ -1,0 +1,14 @@
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\bin\Debug\Matrix4.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\bin\Debug\Matrix4.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\bin\Debug\Matrix4.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\bin\Debug\Matrix4.pdb
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.exe
+C:\Users\itdtpadmin\Documents\Visual Studio 2010\Projects\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.pdb
+C:\CS\DataTypeSolution\Matrix4\bin\Debug\Matrix4.exe
+C:\CS\DataTypeSolution\Matrix4\bin\Debug\Matrix4.pdb
+C:\CS\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.csproj.CoreCompileInputs.cache
+C:\CS\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.exe
+C:\CS\DataTypeSolution\Matrix4\obj\x86\Debug\Matrix4.pdb

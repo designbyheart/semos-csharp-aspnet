@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\SimpleLambda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\SimpleLambda\bin\Debug\SimpleLambda.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\SimpleLambda\bin\Debug\SimpleLambda.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\SimpleLambda\obj\x86\Debug\SimpleLambda.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\LINQ Solution\SimpleLambda\obj\x86\Debug\SimpleLambda.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\SimpleLambda\bin\Debug\SimpleLambda.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\SimpleLambda\bin\Debug\SimpleLambda.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\SimpleLambda\obj\x86\Debug\SimpleLambda.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\SimpleLambda\obj\x86\Debug\SimpleLambda.pdb

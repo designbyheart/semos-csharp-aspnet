@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\obj\x86\Debug\GenericDelgate.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\obj\x86\Debug\GenericDelgate.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\bin\Debug\GenericDelgate.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\bin\Debug\GenericDelgate.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\bin\Debug\GenericDelgate.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\bin\Debug\GenericDelgate.pdb
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\obj\x86\Debug\GenericDelgate.exe
+C:\Users\lecturer\Documents\Visual Studio 2010\Projects\LINQ Solution\GenericDelgate\obj\x86\Debug\GenericDelgate.pdb
